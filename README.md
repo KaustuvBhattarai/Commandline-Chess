@@ -5,11 +5,21 @@ KaustuvChess represents the fusion of chess game with modern technology and soft
 
 The implementation of KaustuvChess followed a systematic step-by-step approach. The core chess logic, including move validation and piece behaviors, was established before building the user interface. This approach allowed for a focused development process, ensuring that each component was thoroughly tested before integration.
 
+### KaustuvChess in action: 
+![image](https://github.com/KaustuvBhattarai/commandline_chess/assets/84970024/36f7835b-4105-49ac-ab9f-a6402fe8383d)
+
+
+
 The chessboard is visually represented using ASCII characters within the command-line interface. Each square on the board is displayed with its content (if any) using characters that correspond to different chess pieces. This representation provides an intuitive view of the current game state.
 
 ![image](https://github.com/KaustuvBhattarai/commandline_chess/assets/84970024/78c06989-17ae-4164-883b-140655314dd3)
 
 ### Suppose the first player wants to move his king pawn 2 steps, The input is 2,4 to 4,4. 
+
+![image](https://github.com/KaustuvBhattarai/commandline_chess/assets/84970024/d5abb1c3-e12f-4114-a4b6-6b179327d25c)
+
+### Which then changes board to the new position: 
+![image](https://github.com/KaustuvBhattarai/commandline_chess/assets/84970024/122ab51e-62f4-408d-88cc-8fccceb66d9a)
 
 The user interface provides instructions and prompts in the Nepali language to guide players through the game. Players can input their moves using numeric notation. The interface also handles invalid moves gracefully, notifying players and requesting new inputs when necessary. 
 
