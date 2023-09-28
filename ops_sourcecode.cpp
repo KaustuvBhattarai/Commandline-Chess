@@ -243,7 +243,7 @@ public:
                 }
     }
     
-   /* int tedha(int &sr,int &sc,int &dr,int &dc)
+   /* int chhadkemoves(int &sr,int &sc,int &dr,int &dc)
     {
         for(int i=1;i<8;i++)
         {
